@@ -1,0 +1,33 @@
+.backGround{
+    background-image: url('../../../public/admin-bg-grocery.jpg');
+    background-color: #090979;
+    height:100vh;
+    width: 100%;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed
+    
+}
+.backGround1 {
+    background-image: url('../../../public/admin-bg-grocery.jpg');
+    background-color: #090979;
+    height: 120vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed
+}
+.loginlogo{
+    background-image: url('../../../public/download.png');
+    padding: 20px;
+    margin-top: 10px;
+    background-size: 250Px;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    
+   
+
+}

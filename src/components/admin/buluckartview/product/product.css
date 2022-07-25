@@ -1,0 +1,9 @@
+ion-icon {
+  margin: 5px;
+  font-size: 30px;
+  color: red;
+}
+.add {
+  display: inline-flexbox;
+  justify-content: space-evenly;
+}

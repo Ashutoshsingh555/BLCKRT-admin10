@@ -1,0 +1,14 @@
+.bulkimport {
+  margin: 10px;
+  padding: 10px;
+}
+.uploadex {
+  padding-top: 40%;
+}
+.btntopsc {
+  background-color: #393575;
+}
+.btntopsc:hover {
+  background-color: rgb(255, 166, 0);
+  color: black;
+}

@@ -1,0 +1,7 @@
+.rt-expandable {
+  cursor: unset !important;
+}
+
+.show-pointer {
+  cursor: pointer !important;
+}

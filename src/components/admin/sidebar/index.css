@@ -1,0 +1,21 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+
+.sidebarheader {
+  background-color: #222d32;
+}
+.nav-link {
+  color: rgb(159, 160, 161);
+}
+.nav-link:hover {
+  color: aliceblue;
+}
+.nav-link:active {
+  color: aliceblue;
+}
+
+.sb-nav-link-icon {
+  font-size: 35px;
+}

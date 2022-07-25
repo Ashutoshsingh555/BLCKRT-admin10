@@ -1,0 +1,8 @@
+.addinvetoryimage {
+  margin: 15px;
+  padding: 15px;
+}
+.filebtndiv {
+  float: right;
+  display: flex;
+}

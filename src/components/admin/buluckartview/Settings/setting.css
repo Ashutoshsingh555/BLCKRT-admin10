@@ -1,0 +1,22 @@
+.settingbody {
+  margin: 15px;
+}
+.crcbtn{
+  background-color: rgb(26, 82, 201);
+  color: white;
+  font-size: 500;
+
+}
+.crcbtn:active{
+  background-color: #0ac046;
+  border: 3px solid rgb(224, 15, 15);
+  color:black
+}
+.logocontainer{
+
+  min-height: 35%;
+  background-color: aliceblue;
+  border: 1px solid rgb(0, 0, 0);
+  text-align: center;
+}
+
